@@ -1,0 +1,1 @@
+This is a quick project I have made in streamlit. The goal is to take end of day F&O bhav copy and make comparison of it with old bhav copies. I will be making more changes in it. Also go through this post by Nithin kamath on why traders should use end of day OI - https://x.com/Nithin0dha/status/1098791638279716864. 
